@@ -1,0 +1,7 @@
+{
+  "name": "content-creation",
+  "owner": { "name": "askorokhod2020-pixel" },
+  "plugins": [
+    { "name": "content-creation-skills", "source": "./", "description": "Сценарии, карусели, контент-пакеты, монтаж" }
+  ]
+}
